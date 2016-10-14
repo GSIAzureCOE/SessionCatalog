@@ -181,6 +181,8 @@ Insight & Analytics|[Monitoring and Diagnostics](https://github.com/GSIAzureCOE/
 Title|Runtime
 -------------|-------
 [Azure Hackathon](https://github.com/GSIAzureCOE/Hackathon)|4:30 hours
+[DevOps Deep Dive](https://github.com/GSIAzureCOE/DevOps-Deep-Dive)| 16 hours
+[SAP on Azure Deep Dive](https://github.com/GSIAzureCOE/SAP-on-Azure)|24 hours
 
 ## Code of Conduct
 
