@@ -33,7 +33,7 @@ Topic|Details
 ### Compute
 Product|Relevant Topics
 -------|---------------
-Virtual Machines|[Architecting Virtual Machine Solutions](https://github.com/GSIAzureCOE/Virtual-Machine-Solutions) [Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure) [Architecting Hybrid Solutions](https://github.com/GSIAzureCOE/Hybrid)
+Virtual Machines|[Architecting Virtual Machine Solutions](https://github.com/GSIAzureCOE/Virtual-Machine-Solutions), [Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure), [Architecting Hybrid Solutions](https://github.com/GSIAzureCOE/Hybrid)
 Virtual Machine Scale Sets|[Scalable Compute in Azure](https://github.com/GSIAzureCOE/Compute)
 Azure Container Service|[Scalable Compute in Azure](https://github.com/GSIAzureCOE/Compute)
 Functions|N/A
@@ -44,19 +44,20 @@ Cloud Services|N/A
 ### Networking
 Product|Relevant Topics
 -------|---------------
-Virtual Network|[Networking](https://github.com/GSIAzureCOE/Networking) [Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure)
+Virtual Network|[Networking](https://github.com/GSIAzureCOE/Networking)
+                [Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure)
 Load Balancer|[Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure)
 Application Gateway|[Identity and Access Management](https://github.com/GSIAzureCOE/Identity-and-Access-Management)
 VPN Gateway|[Networking](https://github.com/GSIAzureCOE/Networking)
 Azure DNS|N/A
 CDN|[Architecting Global Scale Solutions](https://github.com/GSIAzureCOE/Global-Scale)
 Traffic Manager|[Networking](https://github.com/GSIAzureCOE/Networking)
-ExpressRoute|[Networking](https://github.com/GSIAzureCOE/Networking) [Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure)
+ExpressRoute|[Networking](https://github.com/GSIAzureCOE/Networking), [Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure)
 
 ### Storage
 Product|Relevant Topics
 -------|---------------
-Azure Storage|[Understanding Storage and Solution Performance](https://github.com/GSIAzureCOE/Storage) [Patterns and Anti-Patterns](https://github.com/GSIAzureCOE/Cloud-Patterns-and-Anti-Patterns)
+Azure Storage|[Understanding Storage and Solution Performance](https://github.com/GSIAzureCOE/Storage), [Patterns and Anti-Patterns](https://github.com/GSIAzureCOE/Cloud-Patterns-and-Anti-Patterns)
 Blob|[Understanding Storage and Solution Performance](https://github.com/GSIAzureCOE/Storage)
 Queue|[Understanding Storage and Solution Performance](https://github.com/GSIAzureCOE/Storage)
 File|[Understanding Storage and Solution Performance](https://github.com/GSIAzureCOE/Storage)
@@ -69,8 +70,8 @@ Site Recovery| [Architecting Hybrid Solutions](https://github.com/GSIAzureCOE/Hy
 ### Web + Mobile
 Product|Relevant Topics
 -------|---------------
-App Service|[Architecting for Modern Cloud Apps](https://github.com/GSIAzureCOE/Modern-Apps) [Architecting Global Scale Solutions](https://github.com/GSIAzureCOE/Global-Scale)
-Web Apps|[Architecting for Modern Cloud Apps](https://github.com/GSIAzureCOE/Modern-Apps) [Architecting Global Scale Solutions](https://github.com/GSIAzureCOE/Global-Scale)[DevOps](https://github.com/GSIAzureCOE/DevOps)
+App Service|[Architecting for Modern Cloud Apps](https://github.com/GSIAzureCOE/Modern-Apps), [Architecting Global Scale Solutions](https://github.com/GSIAzureCOE/Global-Scale)
+Web Apps|[Architecting for Modern Cloud Apps](https://github.com/GSIAzureCOE/Modern-Apps), [Architecting Global Scale Solutions](https://github.com/GSIAzureCOE/Global-Scale), [DevOps](https://github.com/GSIAzureCOE/DevOps)
 Mobile Apps|[Architecting for Modern Cloud Apps](https://github.com/GSIAzureCOE/Modern-Apps)
 Logic Apps|[Architecting for Modern Cloud Apps](https://github.com/GSIAzureCOE/Modern-Apps)
 API Apps|[Architecting for Modern Cloud Apps](https://github.com/GSIAzureCOE/Modern-Apps)
@@ -84,7 +85,7 @@ Notification Hubs|N/A
 ### Databases
 Product|Relevant Topics
 -------|---------------
-SQL Databases|[Architecting for Modern Cloud Apps](https://github.com/GSIAzureCOE/Modern-Apps) [Architecting Global Scale Solutions](https://github.com/GSIAzureCOE/Global-Scale) [Building Secure Solutions](https://github.com/GSIAzureCOE/Secure-Solutions)
+SQL Databases|[Architecting for Modern Cloud Apps](https://github.com/GSIAzureCOE/Modern-Apps), [Architecting Global Scale Solutions](https://github.com/GSIAzureCOE/Global-Scale), [Building Secure Solutions](https://github.com/GSIAzureCOE/Secure-Solutions)
 SQL Data Warehouse|[Architecting Big Data and Analytics Solutions](https://github.com/GSIAzureCOE/Big-Data)
 SQL Server Stretch Database|N/A
 DocumentDB|[Architecting for Modern Cloud Apps](https://github.com/GSIAzureCOE/Modern-Apps)
@@ -157,7 +158,7 @@ Scheduler|N/A
 Traffic Manager|[Networking](https://github.com/GSIAzureCOE/Networking)
 Azure Monitor|N/A
 Security & Compliance|[Building Secure Solutions](https://github.com/GSIAzureCOE/Secure-Solutions)
-Protection & Recovery|[Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure) [SAP on Azure](https://github.com/GSIAzureCOE/SAP-on-Azure)
+Protection & Recovery|[Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure), [SAP on Azure](https://github.com/GSIAzureCOE/SAP-on-Azure)
 Automation & Control|[Infrastructure as Code](https://github.com/GSIAzureCOE/Infrastructure-as-Code)
 Insight & Analytics|[Monitoring and Diagnostics](https://github.com/GSIAzureCOE/Monitoring-and-Diagnostics)
 
