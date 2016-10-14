@@ -3,20 +3,20 @@
 The repositories managed by Azure CAT GSI provides materials to deliver sessions on various Microsoft Azure solution architecture topics, such as Infrastructure-as-a-Service capabilities, services supporting Internet-of-Things scenarios, Big Data, and many more. At a minimum, session content contains a PowerPoint presentation with full speaker notes. In addition, it may include demo scripts and demo code, with a video in which the demo is shown. The session catalog provides insight into the sessions available and the topics covered. A topic can contain multiple presentations.
 
 ## Table of Contents
-* [Alphabetical list of topics](##Alphabetical-list-of-topics)
-* [Topics by Product](##Topics-by-Product)
-  * [Compute](###Compute)
-  * [Networking](###Networking)
-  * [Storage](###Storage)
-  * [Web + Mobile](###Web-+-Mobile)
-  * [Databases](###Databases)
-  * [Intelligence + Analytics](###Intelligence-+-Analytics)
-  * [Internet of Things](###Internet-of-Things)
-  * [Enterprise Integration](###Enterprise-Integration)
-  * [Security + Identity](###Security-+-Identity)
-  * [Developer Tools](###Developer-Tools)
-  * [Monitoring + Management](###Monitoring-+-Management)
-* [Hands-on Labs](###Hands-on-Labs)
+* [Alphabetical list of topics](#alphabetical-list-of-topics)
+* [Topics by Product](#topics-by-product)
+  * [Compute](#compute)
+  * [Networking](#networking)
+  * [Storage](#storage)
+  * [Web + Mobile](#web-+-mobile)
+  * [Databases](#databases)
+  * [Intelligence + Analytics](#intelligence-+-analytics)
+  * [Internet of Things](#internet-of-things)
+  * [Enterprise Integration](#enterprise-integration)
+  * [Security + Identity](#security-+-identity)
+  * [Developer Tools](#developer-Tools)
+  * [Monitoring + Management](#monitoring-+-Management)
+* [Hands-on Labs](#hands-on-labs)
 
 ## Alphabetical list of topics
 Topic|Details
