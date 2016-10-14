@@ -44,8 +44,7 @@ Cloud Services|N/A
 ### Networking
 Product|Relevant Topics
 -------|---------------
-Virtual Network|[Networking](https://github.com/GSIAzureCOE/Networking)
-                [Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure)
+Virtual Network|[Networking](https://github.com/GSIAzureCOE/Networking)<br>[Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure)
 Load Balancer|[Advanced Workloads on Azure](https://github.com/GSIAzureCOE/Advanced-Workloads-On-Azure)
 Application Gateway|[Identity and Access Management](https://github.com/GSIAzureCOE/Identity-and-Access-Management)
 VPN Gateway|[Networking](https://github.com/GSIAzureCOE/Networking)
